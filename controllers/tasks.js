@@ -45,7 +45,7 @@ const deleteTask = (req,res)=>{
     res.send('all items from file')
 }
 
-
+//sincaplar fındık sever
 
 module.exports={
     getAllTasks,getTask,createTask,deleteTask,updateTask
